@@ -1,0 +1,84 @@
+/* .box {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+.box2 {
+  width: 100px;
+  height: 100px;
+}
+.box:hover + .box2 {
+  background-color: green;
+} */
+
+/* .btn:active {
+  background-color: red;
+} */
+
+.input:focus {
+  border: 1px solid red;
+  outline: none;
+}
+.error_text {
+  display: none;
+}
+
+.input:focus + .error_text {
+  display: block;
+}
+/* .box {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+.box2 {
+  width: 100px;
+  height: 100px;
+}
+.box:hover + .box2 {
+  background-color: green;
+} */
+
+/* .btn:active {
+  background-color: red;
+} */
+
+.input:focus {
+  border: 1px solid red;
+  outline: none;
+}
+.error_text {
+  display: none;
+}
+
+.input:focus + .error_text {
+  display: block;
+}
+/* .box {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+.box2 {
+  width: 100px;
+  height: 100px;
+}
+.box:hover + .box2 {
+  background-color: green;
+} */
+
+/* .btn:active {
+  background-color: red;
+} */
+
+.input:focus {
+  border: 1px solid red;
+  outline: none;
+}
+.error_text {
+  display: none;
+}
+
+.input:focus + .error_text {
+  display: block;
+}
